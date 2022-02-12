@@ -3,4 +3,5 @@
 1、此播放器依赖pygame模块、time模块
 感谢下载并欢迎star
 注意：本程序请放在同一个文件夹运行.
-# 搞笑
+# 音乐播放器gui版
+此播放器依赖easygui模块、playsound模块
