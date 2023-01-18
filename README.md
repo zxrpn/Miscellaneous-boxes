@@ -5,4 +5,4 @@
 注意：本程序请放在同一个文件夹运行.
 # 音乐播放器gui版
 此播放器依赖easygui模块、playsound模块
-[![Star History Chart](https://api.star-history.com/svg?repos=zxrpn/Miscellaneous-boxes&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zxrpn/Miscellaneous-boxes&type=Date)](https://star-history.com/#zxrpn/Miscellaneous-boxes&Date)
